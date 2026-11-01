@@ -1,0 +1,6 @@
+{
+  "name": "TEATRO — Premium Cinema & Series Streaming",
+  "description": "Cinematic streaming discovery and playback platform featuring international cinema, TV series, anime, Korean and Asian dramas with high-fidelity playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+WEBVTT - Adaptive Multi-Bitrate HLS Master (English)
+
+00:00:02.000 --> 00:00:07.000
+TEATRO HLS Adaptive Multi-Bitrate Master Stream
+
+00:00:15.000 --> 00:00:25.000
+Streaming Engine: hls.js Low Latency Active
+
+00:00:45.000 --> 00:00:55.000
+Adaptive bitrate switching: 1080p / 720p / 480p dynamic ladder
+
+00:01:30.000 --> 00:01:45.000
+Multi-track audio synchronized with master timeline
